@@ -2,7 +2,7 @@
 
 #### Intro
 
-The purpose of this challenge is to build a solution that would enable SSS to send out packs of sweets with as little wastage as possible for any given order size. To add to this, is the ability for Simon to modify pack sizes.
+The purpose of this is to enable SSS to send out packs of sweets with as little wastage as possible for any given order size. To add to this, is the ability for Simon to modify pack sizes.
 
 #### Tech Stack
 
@@ -60,11 +60,3 @@ src
 ###### Tests
 
 Tests have been written to cater for different use cases
-
-###### Final thoughts and what could be improved
-
-This has been a very positive challenge, giving me a chance to think hard and logically about implementing this solution and I am greateful for this.
-
-What I would improve on this is to have a user interface ideally on the client to enable the user perform certain tasks if not all tasks instead of seeing the results on the console or accessing a file to see data. In turn this would give the user a better experience. For the scope of this exercise I did not implement this.
-
-With regards to data in real life, I would have used an API to perform CRUD operations saving the information onto a database such as mongo.
